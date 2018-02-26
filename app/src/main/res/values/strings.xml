@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="progress_dialog_title">Aguarde</string>
+    <string name="progress_dialog_msg">Buscando Pacotes de Viagem para você...</string>
+    <string name="error_msg">Não foi possível buscar os pacotes.</string>
+    <string name="extra_travel_package">extraTravelPackage</string>
+    <string name="promotional">por apenas: R$\u0020</string>
+    <string name="holder_placeholder_title">Viaje para o Atacama </string>
+    <string name="holder_placeholder_price">R$ 1099,99</string>
+    <string name="dialog_payment_msg">Comprado! Obrigado pela preferência.</string>
+    <string name="dialog_payment_title">Mensagem</string>
+    <string name="dialog_positive_text">Ok</string>
+
+    <string name="detail_placeholder_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="detail_btn_buy_text">Comprar</string>
+</resources>
